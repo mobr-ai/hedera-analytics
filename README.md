@@ -1,5 +1,5 @@
-# waves-analytics
-Waves Analytics is a system to ease how users specify their queries and to assist users to create, visualize, and share Waves blockchain analytics in the form of informative artifacts. The main goal of this repository is to illustrate Waves Analytics usage.
+# hedera-analytics
+A system to specify  queries and to assist  creation, visualizion, and sharing Hedera blockchain analytics
 
 ## Requirements
 see requirements.txt
