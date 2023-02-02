@@ -1,5 +1,5 @@
 # hedera-analytics
-A system to specify  queries and to assist  creation, visualizion, and sharing Hedera blockchain analytics
+A system to specify  queries and to assist  creation, visualizing, and sharing Hedera blockchain analytics
 
 ## Requirements
 see requirements.txt
